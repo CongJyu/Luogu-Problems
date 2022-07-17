@@ -1,2 +1,5 @@
 # Luogu-Problems
- 一些 Luogu 做题记录
+
+This repo is used to store some Luogu-Problems' solutions.
+
+**For Non-Commercial-Use Only**
