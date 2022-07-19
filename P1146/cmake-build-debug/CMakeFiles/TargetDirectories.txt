@@ -1,0 +1,3 @@
+/Users/rainchen/CodingArea/Luogu-Problems/P1146/cmake-build-debug/CMakeFiles/P1146.dir
+/Users/rainchen/CodingArea/Luogu-Problems/P1146/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rainchen/CodingArea/Luogu-Problems/P1146/cmake-build-debug/CMakeFiles/rebuild_cache.dir
