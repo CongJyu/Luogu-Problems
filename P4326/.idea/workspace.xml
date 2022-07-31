@@ -14,12 +14,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64f0899f-ec8b-443f-849d-4585a30b56ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/P4326.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="64f0899f-ec8b-443f-849d-4585a30b56ec" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1659240520200</updated>
       <workItem from="1659240522940" duration="195000" />
-      <workItem from="1659250377053" duration="334000" />
+      <workItem from="1659250377053" duration="424000" />
     </task>
     <servers />
   </component>
