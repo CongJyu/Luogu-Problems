@@ -46,13 +46,6 @@ int main() {
             }
         }
     }
-    // test
-    for (int i{1}; i <= n; ++i) {
-        for (int j{1}; j <= m; ++j) {
-            clog << board[i][j];
-        }
-        clog << endl;
-    }
     int cnt{};
     for (int i{1}; i <= n; ++i) {
         for (int j{1}; j <= m; ++j) {
@@ -62,7 +55,6 @@ int main() {
         }
     }
     cout << cnt << endl;
-    // test
     for (int i{1}; i <= n; ++i) {
         for (int j{1}; j <= m; ++j) {
             clog << idx[i][j];
