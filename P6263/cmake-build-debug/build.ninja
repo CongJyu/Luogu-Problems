@@ -11,7 +11,7 @@
 # =============================================================================
 
 # =============================================================================
-# Project: P2006
+# Project: P6263
 # Configurations: Debug
 # =============================================================================
 
@@ -39,47 +39,47 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /Users/rainchen/CodingArea/Luogu-Problems/P2006/cmake-build-debug/
+cmake_ninja_workdir = /Users/rainchen/CodingArea/Luogu-Problems/P6263/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target P2006
+# Object build statements for EXECUTABLE target P6263
 
 
 #############################################
-# Order-only phony target for P2006
+# Order-only phony target for P6263
 
-build cmake_object_order_depends_target_P2006: phony || CMakeFiles/P2006.dir
+build cmake_object_order_depends_target_P6263: phony || CMakeFiles/P6263.dir
 
-build CMakeFiles/P2006.dir/main.cpp.o: CXX_COMPILER__P2006_Debug /Users/rainchen/CodingArea/Luogu-Problems/P2006/main.cpp || cmake_object_order_depends_target_P2006
-  DEP_FILE = CMakeFiles/P2006.dir/main.cpp.o.d
+build CMakeFiles/P6263.dir/main.cpp.o: CXX_COMPILER__P6263_Debug /Users/rainchen/CodingArea/Luogu-Problems/P6263/main.cpp || cmake_object_order_depends_target_P6263
+  DEP_FILE = CMakeFiles/P6263.dir/main.cpp.o.d
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17
-  OBJECT_DIR = CMakeFiles/P2006.dir
-  OBJECT_FILE_DIR = CMakeFiles/P2006.dir
-  TARGET_COMPILE_PDB = CMakeFiles/P2006.dir/
-  TARGET_PDB = P2006.pdb
+  OBJECT_DIR = CMakeFiles/P6263.dir
+  OBJECT_FILE_DIR = CMakeFiles/P6263.dir
+  TARGET_COMPILE_PDB = CMakeFiles/P6263.dir/
+  TARGET_PDB = P6263.pdb
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target P2006
+# Link build statements for EXECUTABLE target P6263
 
 
 #############################################
-# Link the executable P2006
+# Link the executable P6263
 
-build P2006: CXX_EXECUTABLE_LINKER__P2006_Debug CMakeFiles/P2006.dir/main.cpp.o
+build P6263: CXX_EXECUTABLE_LINKER__P6263_Debug CMakeFiles/P6263.dir/main.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  OBJECT_DIR = CMakeFiles/P2006.dir
+  OBJECT_DIR = CMakeFiles/P6263.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_COMPILE_PDB = CMakeFiles/P2006.dir/
-  TARGET_FILE = P2006
-  TARGET_PDB = P2006.pdb
+  TARGET_COMPILE_PDB = CMakeFiles/P6263.dir/
+  TARGET_FILE = P6263
+  TARGET_PDB = P6263.pdb
 
 
 #############################################
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/rainchen/CodingArea/Luogu-Problems/P2006/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd /Users/rainchen/CodingArea/Luogu-Problems/P6263/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -90,7 +90,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/rainchen/CodingArea/Luogu-Problems/P2006/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/rainchen/CodingArea/Luogu-Problems/P2006 -B/Users/rainchen/CodingArea/Luogu-Problems/P2006/cmake-build-debug
+  COMMAND = cd /Users/rainchen/CodingArea/Luogu-Problems/P6263/cmake-build-debug && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --regenerate-during-build -S/Users/rainchen/CodingArea/Luogu-Problems/P6263 -B/Users/rainchen/CodingArea/Luogu-Problems/P6263/cmake-build-debug
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -106,9 +106,9 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 
 #############################################
-# Folder: /Users/rainchen/CodingArea/Luogu-Problems/P2006/cmake-build-debug
+# Folder: /Users/rainchen/CodingArea/Luogu-Problems/P6263/cmake-build-debug
 
-build all: phony P2006
+build all: phony P6263
 
 # =============================================================================
 # Built-in targets
