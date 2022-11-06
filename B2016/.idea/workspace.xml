@@ -14,12 +14,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36ec139f-5e95-4aec-b809-24a26cee0e39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/B2016.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-    </list>
+    <list default="true" id="36ec139f-5e95-4aec-b809-24a26cee0e39" name="Changes" comment="add b2016" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,8 +72,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667736380583</updated>
-      <workItem from="1667736381766" duration="440000" />
+      <workItem from="1667736381766" duration="476000" />
     </task>
+    <task id="LOCAL-00001" summary="add b2016">
+      <created>1667736854787</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667736854787</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,5 +97,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add b2016" />
+    <option name="LAST_COMMIT_MESSAGE" value="add b2016" />
   </component>
 </project>
