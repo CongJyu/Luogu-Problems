@@ -1,8 +1,8 @@
 // luogu b2031
 
-#include <iostream>
-#include <iomanip>
 #include <cmath>
+#include <iomanip>
+#include <iostream>
 
 using namespace std;
 
