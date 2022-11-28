@@ -59,34 +59,34 @@ BinPackParameters: true
 
 # 大括号换行，只有当 BreakBeforeBraces 设置为 Custom 时才有效
 BraceWrapping:
-  # class 定义后面
-  AfterClass: false
-  # 控制语句后面
-  AfterControlStatement: false
-  # enum 定义后面
-  AfterEnum: false
-  # 函数定义后面
-  AfterFunction: false
-  # 命名空间定义后面
-  AfterNamespace: false
-  # struct 定义后面
-  AfterStruct: false
-  # union 定义后面
-  AfterUnion: false
-  # extern 之后
-  AfterExternBlock: false
-  # catch 之前
-  BeforeCatch: false
-  # else 之前
-  BeforeElse: false
-  # 缩进大括号
-  IndentBraces: false
-  # 分离空函数
-  SplitEmptyFunction: false
-  # 分离空语句
-  SplitEmptyRecord: false
-  # 分离空命名空间
-  SplitEmptyNamespace: false
+    # class 定义后面
+    AfterClass: false
+    # 控制语句后面
+    AfterControlStatement: false
+    # enum 定义后面
+    AfterEnum: false
+    # 函数定义后面
+    AfterFunction: false
+    # 命名空间定义后面
+    AfterNamespace: false
+    # struct 定义后面
+    AfterStruct: false
+    # union 定义后面
+    AfterUnion: false
+    # extern 之后
+    AfterExternBlock: false
+    # catch 之前
+    BeforeCatch: false
+    # else 之前
+    BeforeElse: false
+    # 缩进大括号
+    IndentBraces: false
+    # 分离空函数
+    SplitEmptyFunction: false
+    # 分离空语句
+    SplitEmptyRecord: false
+    # 分离空命名空间
+    SplitEmptyNamespace: false
 
 # 在二元运算符前换行: None (在操作符后换行), NonAssignment (在非赋值的操作符前换行), All (在操作符前换行)
 BreakBeforeBinaryOperators: NonAssignment
@@ -163,7 +163,7 @@ SortIncludes: false
 SortUsingDeclarations: false
 
 # 在C风格类型转换后添加空格
-SpaceAfterCStyleCast: false
+SpaceAfterCStyleCast: true
 
 # 在 Template 关键字后面添加空格
 SpaceAfterTemplateKeyword: true
