@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "B2020::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-B2020-Debug-4c0de97b3adee9323611.json",
+					"jsonFile" : "target-B2020-Debug-cff4028592603132ccc5.json",
 					"name" : "B2020",
 					"projectIndex" : 0
 				}
@@ -55,6 +55,6 @@
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 3
+		"minor" : 4
 	}
 }

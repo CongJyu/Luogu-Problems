@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "B2020"
+			"path" : "B2051"
 		}
 	],
 	"backtrace" : 1,
@@ -35,7 +35,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk"
+					"fragment" : "-g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -fcolor-diagnostics"
 				},
 				{
 					"fragment" : "-std=gnu++17"
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "B2020::@6890427a1f51a3e7e1df",
+	"id" : "B2051::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -72,8 +72,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "B2020",
-	"nameOnDisk" : "B2020",
+	"name" : "B2051",
+	"nameOnDisk" : "B2051",
 	"paths" : 
 	{
 		"build" : ".",

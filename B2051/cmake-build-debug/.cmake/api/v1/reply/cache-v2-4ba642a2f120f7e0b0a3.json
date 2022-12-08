@@ -2,7 +2,7 @@
 	"entries" : 
 	[
 		{
-			"name" : "B2020_BINARY_DIR",
+			"name" : "B2051_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -11,10 +11,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/rainchen/CodingArea/Luogu-Problems/B2020/cmake-build-debug"
+			"value" : "/Users/rainchen/CodingArea/Luogu-Problems/B2051/cmake-build-debug"
 		},
 		{
-			"name" : "B2020_IS_TOP_LEVEL",
+			"name" : "B2051_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -26,7 +26,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "B2020_SOURCE_DIR",
+			"name" : "B2051_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -35,7 +35,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/rainchen/CodingArea/Luogu-Problems/B2020"
+			"value" : "/Users/rainchen/CodingArea/Luogu-Problems/B2051"
 		},
 		{
 			"name" : "CMAKE_ADDR2LINE",
@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/rainchen/CodingArea/Luogu-Problems/B2020/cmake-build-debug"
+			"value" : "/Users/rainchen/CodingArea/Luogu-Problems/B2051/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -115,7 +115,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "22"
+			"value" : "24"
 		},
 		{
 			"name" : "CMAKE_CACHE_PATCH_VERSION",
@@ -127,7 +127,19 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "3"
+			"value" : "2"
+		},
+		{
+			"name" : "CMAKE_COLOR_DIAGNOSTICS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Enable colored diagnostics throughout."
+				}
+			],
+			"type" : "BOOL",
+			"value" : "ON"
 		},
 		{
 			"name" : "CMAKE_COMMAND",
@@ -494,6 +506,18 @@
 			"value" : ""
 		},
 		{
+			"name" : "CMAKE_FIND_PACKAGE_REDIRECTS_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake."
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/rainchen/CodingArea/Luogu-Problems/B2051/cmake-build-debug/CMakeFiles/pkgRedirects"
+		},
+		{
 			"name" : "CMAKE_GENERATOR",
 			"properties" : 
 			[
@@ -551,7 +575,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/rainchen/CodingArea/Luogu-Problems/B2020"
+			"value" : "/Users/rainchen/CodingArea/Luogu-Problems/B2051"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -831,7 +855,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "B2020"
+			"value" : "B2051"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -875,7 +899,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.22"
+			"value" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
