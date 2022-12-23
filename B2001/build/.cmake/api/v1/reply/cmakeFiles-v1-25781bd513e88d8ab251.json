@@ -21,6 +21,11 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.25.1/share/cmake/Modules/CMakeUnixFindMake.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
 			"path" : "/opt/homebrew/Cellar/cmake/3.25.1/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake"
 		},
 		{
