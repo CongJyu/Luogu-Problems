@@ -20,13 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82cd3026-dd87-4a6a-8aa9-181573a1d51b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/B2077.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../B2076/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../B2076/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="82cd3026-dd87-4a6a-8aa9-181573a1d51b" name="Changes" comment="add b2077" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,11 +83,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672230676283</updated>
-      <workItem from="1672230677441" duration="425000" />
+      <workItem from="1672230677441" duration="552000" />
     </task>
+    <task id="LOCAL-00001" summary="add b2077">
+      <created>1672231222773</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672231222773</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add b2077" />
+    <option name="LAST_COMMIT_MESSAGE" value="add b2077" />
   </component>
 </project>
