@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/rainchen/CodingArea/Luogu-Problems/B2107/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -std=gnu++17 -o CMakeFiles/B2107.dir/main.cpp.o -c /Users/rainchen/CodingArea/Luogu-Problems/B2107/main.cpp",
+  "file": "/Users/rainchen/CodingArea/Luogu-Problems/B2107/main.cpp"
+}
+]
