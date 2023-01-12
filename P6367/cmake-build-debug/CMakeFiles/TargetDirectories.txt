@@ -1,3 +1,0 @@
-/Users/rainchen/CodingArea/Luogu-Problems/P6367/cmake-build-debug/CMakeFiles/P6367.dir
-/Users/rainchen/CodingArea/Luogu-Problems/P6367/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/rainchen/CodingArea/Luogu-Problems/P6367/cmake-build-debug/CMakeFiles/rebuild_cache.dir

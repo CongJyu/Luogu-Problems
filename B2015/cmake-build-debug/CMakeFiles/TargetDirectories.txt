@@ -1,3 +1,0 @@
-/Users/rainchen/CodingArea/Luogu-Problems/B2015/cmake-build-debug/CMakeFiles/B2015.dir
-/Users/rainchen/CodingArea/Luogu-Problems/B2015/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/rainchen/CodingArea/Luogu-Problems/B2015/cmake-build-debug/CMakeFiles/rebuild_cache.dir

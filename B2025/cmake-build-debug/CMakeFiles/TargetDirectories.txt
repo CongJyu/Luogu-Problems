@@ -1,3 +1,0 @@
-/Users/rainchen/CodingArea/Luogu-Problems/B2025/cmake-build-debug/CMakeFiles/B2025.dir
-/Users/rainchen/CodingArea/Luogu-Problems/B2025/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/rainchen/CodingArea/Luogu-Problems/B2025/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-/Users/rainchen/CodingArea/Luogu-Problems/P5717/cmake-build-debug/CMakeFiles/P5717.dir
-/Users/rainchen/CodingArea/Luogu-Problems/P5717/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/rainchen/CodingArea/Luogu-Problems/P5717/cmake-build-debug/CMakeFiles/rebuild_cache.dir

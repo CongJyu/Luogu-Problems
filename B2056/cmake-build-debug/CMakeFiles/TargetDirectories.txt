@@ -1,3 +1,0 @@
-/Users/rainchen/CodingArea/Luogu-Problems/B2056/cmake-build-debug/CMakeFiles/B2056.dir
-/Users/rainchen/CodingArea/Luogu-Problems/B2056/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/rainchen/CodingArea/Luogu-Problems/B2056/cmake-build-debug/CMakeFiles/rebuild_cache.dir

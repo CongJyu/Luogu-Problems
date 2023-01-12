@@ -1,3 +1,0 @@
-/Users/rainchen/CodingArea/Luogu-Problems/B2001/build/CMakeFiles/B2001.dir
-/Users/rainchen/CodingArea/Luogu-Problems/B2001/build/CMakeFiles/edit_cache.dir
-/Users/rainchen/CodingArea/Luogu-Problems/B2001/build/CMakeFiles/rebuild_cache.dir
